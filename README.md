@@ -14,7 +14,7 @@ This is the frontend of a simple web application built with React. It allows use
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/arautucu/fullstack-web-app
    cd frontend
 
 2. **Install dependencies**:
@@ -53,7 +53,7 @@ This is the backend of a simple web application. It provides API endpoints for u
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/arautucu/fullstack-web-app
    cd backend
 
 2. **Install dependencies**:
